@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taskmultidaya</string>
+    <string name="pass_data_on_back">Pass Data On Back</string>
+    <string name="validation">Validation</string>
+    <string name="pass_data">Pass Data</string>
+    <string name="intent">intent</string>
+    <string name="detail_activity">Detail Activity</string>
+</resources>
